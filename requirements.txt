@@ -4,3 +4,8 @@ scikit-learn
 flask
 xgboost
 seaborn
+matplotlib
+ipykernel
+pandas-profiling
+ipywidgets
+pymongo
